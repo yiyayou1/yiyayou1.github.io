@@ -1078,38 +1078,3 @@ time {
 .link {
     text-decoration: underline
 }
-body {
-  background-color: #f2f3f5;
-  font-family: "Helvetica Neue", "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-  line-height: 1.8;
-  font-size: 16px;
-}
-.Shell {
-  background-color: #fff;
-  border-radius: 12px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.06);
-  padding: 1rem;
-}
-a {
-  color: #3498db;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-pre,
-code {
-  background: #f6f8fa;
-  border-radius: 6px;
-  padding: 0.2em 0.4em;
-  font-family: "Courier New", Courier, monospace;
-}
-img {
-  border-radius: 8px;
-}
-h1,
-h2,
-h3,
-h4 {
-  font-weight: 600;
-}
