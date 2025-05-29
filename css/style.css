@@ -1078,3 +1078,36 @@ time {
 .link {
     text-decoration: underline
 }
+.Shell {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.06);
+  padding: 1.5rem;
+}
+body,
+.Shell {
+  font-family: "KaiTi", "楷体", serif;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #333;
+}
+.SideBar .menu {
+  font-family: "Times New Roman", serif;
+  font-size: 17px;
+}
+.SideBar {
+  background-color: #eaf4fc;
+}
+.SideBar a {
+  color: #2a2a2a;
+  text-decoration: none;
+}
+.SideBar a:hover {
+  color: #3498db;
+}
+.article-entry + .article-entry,
+.post + .post {
+  border-top: 1px solid #ccc;
+  padding-top: 2rem;
+  margin-top: 2rem;
+}
